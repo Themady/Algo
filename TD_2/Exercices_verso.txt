@@ -1,0 +1,76 @@
+﻿Exercice 1 ‌
+‌A = 5‌
+B = 3‌
+C = 8‌
+A = 2‌
+C = 1‌
+‌
+Exercice 2‌
+‌
+A = 5‌
+B = 7‌
+A = 7‌
+B = 7‌
+‌
+Les instructions ne permettent pas d'échanger les valeurs des variable A et B.
+‌
+Soit A, B et C‌
+A = 5‌
+B = 7‌
+C = 0‌
+C = A‌
+A = B‌
+B = C‌
+‌
+Cette méthode permet d'intervertir les valeurs des variables‌ A et B.‌
+‌
+Exercice 3‌‌
+‌
+Une fonction est une procédure qui renvoie une valeur après execution. Une procédure ne renvoie pas de valeur.‌
+‌
+Exercice 4‌‌
+‌
+proc echange‌
+‌
+Debut‌
+{‌
+afficher(A, B, C)‌
+‌D <- A‌
+A <- C‌
+C <- B‌
+B <- D‌
+}‌
+Fin‌
+‌
+Exercice 5‌
+‌
+proc TTC‌‌
+‌
+prix[nb_art], tax <- 19‌.9, nb_art;
+‌
+Debut‌
+{‌‌‌
+afficher("Entrez le nombre d'article(s)");
+entrer(nb_art);‌
+‌
+pour i allant de 0 à (nb_art)‌
+{‌‌‌‌
+afficher("Entrez le prix HT de m'article n°(i+1)");‌‌
+entrer(prix[i])‌‌‌;‌
+}‌
+‌
+pour i allant de 0 à (nb_art)‌
+{‌
+prix[i] <- multiplication(prix[i],tax);‌
+afficher("Le prix TTC de l'article n°(i+1) est prix[i]€");‌
+}‌
+Fin‌
+‌
+Exercice 6‌
+
+#Voir exo6.c  
+
+‌
+‌Exercice 2 Recto
+
+#voir exo2.c 
