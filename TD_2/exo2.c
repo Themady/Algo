@@ -11,7 +11,7 @@ void main()
 	for (i = 0; i < 3; i++)
 	{
 		a = i + 1;
-		printf("Saisir l'element n°%d \n", a);
+		printf("Saisir l'element nÂ°%d \n", a);
 		scanf_s("%d", &tab[i]);
 	}
 	printf("Vous avez entre les elements suivants :  ");
@@ -20,6 +20,7 @@ void main()
 		
 		printf("%d\t", tab[i]);
 	}
+	printf("\n");
 	system("pause");
 	return 0;
 }
