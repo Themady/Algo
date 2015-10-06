@@ -86,4 +86,4 @@ Ecrire un programme demandant à l'utilisateur de saisir une valeur numérique p
 affichant toutes les valeurs n, n-1, ..., 2, 1,0.
 1 - En utilisant la boucle pour (for)
 2 - En utilisant la boucle tant que (while)
-3 - 1 - En utilisant la boucle répéter jusqu'à (do while)
+3 - En utilisant la boucle répéter jusqu'à (do while)
