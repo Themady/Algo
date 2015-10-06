@@ -1,7 +1,7 @@
 # Algo
 
-Voici les premiers exo d'algo.
-J'ajouterai les nouveaux exo au fur et à mesure. 
+Voici les premiers exos d'algo.
+J'ajouterai les nouveaux exos au fur et à mesure. 
 
 Pour tester les programmes :
 
