@@ -1,0 +1,9 @@
+Exercie 4
+
+1 - Ecrire une fonction qui reçoit deux nombre a et b en argument, puis affiche tous le nombre premiers entre a et b.
+Appeler cette fonction à partire du programme principal.
+
+2 - Ecrire une fonction sans argument ni valeur de retour qui se contente d'afficher à chaque appel le nombre de fois où elle à
+été appelé sous la forme : "Appel numero 5"
+
+3 - Organiser votre programme de telle sort que vos fonctions soient déclarée dans un fichier ".h"
