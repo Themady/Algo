@@ -4,7 +4,9 @@ int tiers(int nbr);//prototype
 int main()
 {
 	int nbr = 15;
-	tiers(nbr);
+	//tiers(nbr);
+	printf("%d", tiers(nbr));
+	system("pause");
 }
 int tiers(int nbr)//la fonction doit être de type int pour envoyer une valeur de sortie
 {
